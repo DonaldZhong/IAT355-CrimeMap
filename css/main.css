@@ -2,3 +2,18 @@
 	width:100%;
 	height: 800px;
 }
+
+.logo {
+	width: 20%;
+	height:60%;
+}
+
+#closeBTTN {
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#fullSize {
+	width: 100%;
+}
